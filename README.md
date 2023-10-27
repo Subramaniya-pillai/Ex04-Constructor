@@ -72,6 +72,6 @@ namespace Hello
 }
  ```
  ## Output:
- ![Alt text](image.png)
+ ![Alt text](01.png)
  ## Result:
 Hence, a C# program to calculate the salary of an employee by passing the name, designation, years of experience, basic salary and insurance amount through constructor is executed successfully
